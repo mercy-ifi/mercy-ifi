@@ -10,11 +10,19 @@
 
 ## 💻 Tech Stack
 
-**Languages:**  
-- Java ☕  
-- Python 🐍 (actively learning)  
-- JavaScript / HTML / CSS 🌐 (intro level)  
-- C, C++, SQL (exploring...)
+**Languages I work with 💻**
+- Java ☕
+- Python 🐍
+- C ⚙️
+- SQL 🗃️
+
+**Learning the web ropes 🌐**
+- HTML 🧱
+- CSS 🎨
+- JavaScript ✨
+
+**Currently exploring 🌱**
+- C++ 🔧
 
 **Tools & Frameworks:**  
 - JavaFX  
@@ -26,12 +34,13 @@
 
 ---
 
-## 🛠️ Projects and What I'm Working On
+## 🛠️ Projects & What I’m Working On
 
-- 🐣 Building out Java and Python mini-projects from scratch    
-- 🧪 Exploring **data analysis** with Pandas and Jupyter Notebooks  
-- 🔒 Preparing for tech internships with a focus on **security** and **backend tools**  
-- 📈 Working on a **Bucknell Events Tracker App** to enhance campus engagement  
+- ☕ Building with **Java and Python**, from mini-projects to team applications
+- 🧪 Analyzing data with **pandas and Jupyter Notebooks**
+- 🧠 Exploring **machine learning** through model training and evaluation
+- 💬 Showcasing **BisonMessenger**, a Java team project where I served as Scrum Master
+- 🌐 Building my **personal portfolio website** and learning more about web development 
 
 Check out my pinned repositories below! 📌
 
