@@ -1,10 +1,10 @@
 # Hi there, I’m Mercy Ifiegbu 👋🏽
 
-🎓 I'm a Computer Science student at **Bucknell University** (Class of 2026)  
-🧠 A.A. in Computer Science from **Montgomery County Community College**   
-💬 Passionate about combining **technology** and **social justice** to drive change  
-📚 Currently diving into **Java, Python, C, C++, SQL**, and **software design**  
-🌍 Future engineer, researcher, and equity advocate
+🎓 **Computer Science graduate from Bucknell University**, Class of 2026  
+🧠 Computer Science alum of **Montgomery County Community College**  
+💻 Building projects in **software development, data analysis, and machine learning**  
+💬 Interested in how **technology and research** can support **social justice**  
+🌱 Continuing to learn, build, and explore opportunities in tech
 
 ---
 
